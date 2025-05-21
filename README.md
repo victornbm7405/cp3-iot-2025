@@ -1,5 +1,11 @@
 # Projeto IoT com ESP32 e MQTT Simulado no Wokwi
 
+# Participantes
+
+RM 554557 Victor Medeiros
+RM 555726 Victor Carmona
+RM 555708 Gustavo Goulart
+
 ## Descrição
 
 Este projeto demonstra como configurar um ESP32 para conectar-se a uma rede Wi-Fi e enviar e receber dados via MQTT. A simulação é realizada no [Wokwi](https://wokwi.com/), um simulador online de hardware. O desenvolvimento é feito utilizando o Visual Studio Code com a extensão PlatformIO.
